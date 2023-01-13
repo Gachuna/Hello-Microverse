@@ -62,9 +62,9 @@
 
 ### Key Features <a name="Header"></a>
 
-
-
 - **[Header]**
+- **[Header_color]**
+- **[Header_wth_h1_tag]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,6 +137,8 @@ You can deploy this project using:
 
 
 - [ ] **[Add_color_to_the_header]**
+- [ ] **[Add_font_to_the_header]**
+- [ ] **[Add_center_the_header]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
